@@ -1,0 +1,35 @@
+#agents {
+  margin: 4rem 0 6rem;
+  padding: 0 0 6rem;
+  border-bottom: 1px solid #ccc;
+
+  p.large-paragraph {
+    width: 50%;
+    margin-bottom: 4rem;
+  }
+
+  .flex {
+    flex-wrap: wrap;
+    padding: 0;
+  }
+
+  .card {
+    width: 32%;
+    background: #f0f0f0;
+    margin-bottom: 2rem;
+  }
+
+  .card img {
+    width: 100%;
+  }
+
+  .card h3 {
+    font-family: 'Source Serif Pro', serif;
+    color: #000;
+  }
+
+  .card h3,
+  .card p {
+    padding-left: 1rem;
+  }
+}
